@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BulbTask/static/css/main.0531050d.css",
+    "main.js": "/BulbTask/static/js/main.9ac63e88.js",
+    "static/media/bulbOn.jpg": "/BulbTask/static/media/bulbOn.9a24eb92afcb1476a975.jpg",
+    "static/media/bulbOff.jpg": "/BulbTask/static/media/bulbOff.f39b50ffcb36fbeb9740.jpg",
+    "index.html": "/BulbTask/index.html",
+    "main.0531050d.css.map": "/BulbTask/static/css/main.0531050d.css.map",
+    "main.9ac63e88.js.map": "/BulbTask/static/js/main.9ac63e88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0531050d.css",
+    "static/js/main.9ac63e88.js"
+  ]
+}
